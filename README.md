@@ -4,7 +4,7 @@
 
 
 
-###This project is a Java implementation of a train simulation, during my studies as a __Java Developer__ - as an excercise by my Instructor (https://csc.gr). 
+### This project is a Java implementation of a train simulation, during my studies as a __Java Developer__ - as an excercise by my Instructor (https://csc.gr). 
 
 The simulation models a train traveling along different tracks with multiple stations. While developing, I had to practice by adding and removing, trains on tracks, traincars on trains, passengers from the train and stations as also a timetable schedule. The simulation involves console prints that displays the current state of the trains and stations. 
 
